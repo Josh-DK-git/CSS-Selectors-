@@ -1,0 +1,33 @@
+.one {
+    border: 1px solid black;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    width: 800px;
+    margin: auto;
+}
+
+.para {
+    background-color: purple;
+    padding: 20px;
+    font-size: 50px;
+}
+
+.para.para1 {
+    color: white;
+}
+
+.para.para2 {
+    color: grey;
+    font-size: 40px;
+}
+
+.para.para3 {
+    font-size: 30px;
+}
+
+.one .para3 {
+    color: black;
+}
