@@ -31,3 +31,8 @@
 .one .para3 {
     color: black;
 }
+
+div {
+    box-sizing: content-box;
+
+}
